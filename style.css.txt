@@ -1,0 +1,114 @@
+/* Sections Description IMC */
+section#description-imc { 
+    background-color: white;
+    color: black;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+section#description-imc h2 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+section#description-imc p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+section#description-imc strong {
+    color: #e6005c;
+}
+
+section#description-imc .formule { 
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #e6005c;
+    margin: 20px 0;
+}
+
+
+
+/* Sections Calculs IMC */
+section#imc {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+section#imc h2 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+#button-imc { 
+    background-color: #e6005c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Formulaires */
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+input[type="text"], 
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 3px;
+    color: black;
+}
+
+input {
+    padding: 8px;
+    border-radius: 5px;
+}
+
+/* Header et navigation */
+h1 {
+    color: Black; 
+    text-align: center;
+    font-size: 3em;
+}
+
+
+/* Footer */
+footer {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+
+/* Images */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    height: auto;
+}
